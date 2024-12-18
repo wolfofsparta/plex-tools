@@ -1,6 +1,7 @@
-""" Description: Structuring media files into a standardized format, easily recognizable by any player"""
-__author__ = "The Wolf of Sparta (@wolfofsparta)"
-__title__  = "plexmusic_structure.py"
+## Title:       Structuring media files into a standardized format, easily recognizable by any player.
+## Author:      The Wolf of Sparta (@wolfofsparta)
+## Version:     1.5
+## Date:        2024-02-27
 
 # importing some libraries, if you don't have them, try install them using pip
 import os
