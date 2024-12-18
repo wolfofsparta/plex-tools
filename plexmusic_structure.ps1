@@ -1,4 +1,4 @@
-## Title:       Structuring Plex Media files, using the standardized format
+## Title:       Structuring media files into a standardized format, easily recognizable by any player.
 ## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.5
 ## Date:        2024-02-27
